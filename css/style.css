@@ -1,0 +1,42 @@
+body{
+       
+    position: absolute;
+    width:80% ;
+    height: 90%;
+    margin-left: 10px;
+  } 
+ #calculadora{
+     border: 1px solid aqua;
+     background-color: rgb(247, 89, 247);
+     width:  95%;
+     padding: 90px;
+     border-radius: 10px;
+     margin: 5px;
+ }
+ button{
+     width: 20%;
+     height: 100px;
+     margin: 3px;
+     border-radius: 5px;
+     border-style: none;
+     font-size: 50pt;
+ }
+  #igualdade{
+     position:absolute;
+     width: 13%;
+     top: 35%;
+     left: 89%;
+     height: 74%;
+     background-color: rgb(172, 5, 172);   
+ } 
+ #display{
+     width: 94%;
+     height: 42px;
+     font-size: 50pt;
+     overflow: hidden;
+     border-radius: 5px;
+     padding: 20px;
+ }
+ #limpatela{
+     background-color: rgb(248, 115, 100);
+ }
